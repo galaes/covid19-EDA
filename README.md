@@ -30,10 +30,25 @@ The dataset of COVID-19 from Kaggle(https://www.kaggle.com/datasets/tunguz/data-
 
 ## Methodology
 
-#### 1. Data Collection and Preparation
+### 1. Data Collection and Preparation
 
-#### 2. Descriptive Analysis
+The dataset was imported using R, and an initial overview was conducted to understand its structure, variables, and size. A combination of df_status, freq, and plot_num functions was used to profile the dataset, assess data types, identify missing values, and examine the distribution of categorical and numerical variables.
 
-#### 3. Data Visualization
+For example, with freq we can see the distribution of the categorical variables such as continent and test_units and observe wether the variables have missing values:
 
-#### 4. Insights and Findings
+<img src="images/distr.png" width="40%" alt="images">
+
+<img src="images/Test_units.png" width="40%" alt="images">
+
+Likewise, with plot_num we can observe the distribution of numerical variables:
+
+<img src="images/num_plot.png" width="70%" alt="images">
+
+### 2. Data Cleaning and Transformation
+
+
+### 3. Data Visualization
+
+
+## Insights and Findings
+

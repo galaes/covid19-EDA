@@ -46,9 +46,10 @@ Likewise, with plot_num we can observe the distribution of numerical variables:
 
 ### 2. Data Cleaning and Transformation
 
+- Missing values were identified, and columns with high levels of missingness were noted for potential exclusion or imputation.
+- The date column was converted to a date format for time-series analysis, and only relevant columns were retained for further examination.
 
 ### 3. Data Visualization
-
 
 ## Insights and Findings
 

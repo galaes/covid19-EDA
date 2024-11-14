@@ -30,6 +30,8 @@ The dataset of COVID-19 from Kaggle(https://www.kaggle.com/datasets/tunguz/data-
 
 ## Methodology
 
+[R code]()
+
 ### 1. Data Collection and Preparation
 
 The dataset was imported using R, and an initial overview was conducted to understand its structure, variables, and size. A combination of df_status, freq, and plot_num functions was used to profile the dataset, assess data types, identify missing values, and examine the distribution of categorical and numerical variables.
